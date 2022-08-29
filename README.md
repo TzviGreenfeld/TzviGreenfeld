@@ -1,6 +1,10 @@
 ### Hi there 👋
 ## 3rd year Computer Science Student at Ben-Gurion University of the Negev.
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+https://www.linkedin.com/in/tzvigr/
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/tzvigr/)
 
 <!--
 **TzviGreenfeld/TzviGreenfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
