@@ -1,23 +1,7 @@
-### Hi there 👋
-## 3rd year Computer Science Student at Ben-Gurion University of the Negev.
-https://activity-graph.herokuapp.com/graph?username={TzviGreenfeld}&theme=minimal
-<img src="{https://activity-graph.herokuapp.com/graph?username={TzviGreenfeld}&theme=minimal}" />
-https://github-readme-stats.vercel.app/api/top-langs/?username={TzviGreenfeld}
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/tzvigr/)
 
-<!--
-**TzviGreenfeld/TzviGreenfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tzvi's github stats](https://github-readme-stats.vercel.app/api?username=TzviGreenfeld&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/tzvigr/)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:tzvigreenfield@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
