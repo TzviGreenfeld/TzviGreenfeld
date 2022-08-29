@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tzvi</h1>
-<h3 align="center">A 3rd year Computer Science Student from Israel</h3>
+<h4 align="center">A 3rd year Computer Science Student from Israel</h3>
 
 <hr>
 
