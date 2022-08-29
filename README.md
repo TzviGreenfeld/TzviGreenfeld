@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## 3rd year Computer Science Student at Ben-Gurion University of the Negev.
-https://www.linkedin.com/in/tzvigr/
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://activity-graph.herokuapp.com/graph?username={TzviGreenfeld}&theme=minimal
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={TzviGreenfeld}
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/tzvigr/)
