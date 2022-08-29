@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tzvi</h1>
-<h4 align="center">A 3rd year Computer Science Student from Israel</h3>
-
-<hr>
-
+<div>
+  <h1 align="center">Hi 👋, I'm Tzvi</h1>
+  <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
+</div>
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
-<!-- <br> -->
+
 <!-- <p align=center> -->
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -24,12 +24,12 @@
 <!-- </p> -->
 
 <hr>
-
- #### 📫 How to reach me:
-  
+<div align=center>
+<h5 align="center"> How to reach me: </h5>
+ 
  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/gVsn5sm8)  &nbsp; 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tzvigr/)  &nbsp; 
  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/tzvigr)  &nbsp; 
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/tzvigreenfeld/)  &nbsp; 
  <a href="mailto:tzvigreenfield@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
+</div>
