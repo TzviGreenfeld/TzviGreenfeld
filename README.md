@@ -3,7 +3,7 @@
   <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
 </div>
 <br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 
 <!-- <p align=center> -->
   <div align=center>
