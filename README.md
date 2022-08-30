@@ -22,7 +22,7 @@
 <hr>
 
 <div align=center>
-<h5 align="center"> How to reach me: </h5>
+<h5 align="center"> Reach me out: </h5>
  
  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/gVsn5sm8)  &nbsp; 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tzvigr/)  &nbsp; 
