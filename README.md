@@ -1,10 +1,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tzvi greenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tzvigr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
 <a href="https://fb.com/tzvi greenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
 <a href="https://instagram.com/tzvigreenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tzvigreenfeld" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tzvi greenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tgreenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/gVsn5sm8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gVsn5sm8" height="30" width="40" /></a>
 </p>
 
