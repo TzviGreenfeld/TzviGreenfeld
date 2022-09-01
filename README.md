@@ -1,11 +1,11 @@
 <div>
-  <h1 align="center">Hi 👋, I'm Tzvi</h1>
+  <h1 align="center">Tzvi Greenfeld</h1>
   <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
 </div>
 
 <br>
-<h3 align="center">⚡ Stats ⚡</h3>
-<hr>
+<h2 align="center"> Stats </h2>
+<!-- <hr> -->
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=TzviGreenfeld&theme=react&border=61dafb&hide_border=true" alt="TzviGreenfeld" />
@@ -22,29 +22,12 @@
 <hr>
 
 <div align=center>
-<h5 align="center"> Reach me out: </h5>
+<h2 align="center"> Reach me out: </h2>
  
- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/gVsn5sm8)  &nbsp; 
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tzvigr/)  &nbsp; 
- [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/tzvigr)  &nbsp; 
- [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/tzvigreenfeld/)  &nbsp; 
- <a href="mailto:tzvigreenfield@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="3.5%"/>](https://discord.gg/gVsn5sm8)  &nbsp; 
+ [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="3.5%"/>](https://www.linkedin.com/in/tzvigr/)  &nbsp; 
+ [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="3.5%"/>](https://www.facebook.com/tzvigr)  &nbsp; 
+ [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3.5%"/>](https://www.instagram.com/tzvigreenfeld/)  &nbsp; 
+ [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="3.5%"/>](https://www.leetcode.com/greenfeld)  &nbsp;
+ <a href="mailto:tzvigreenfield@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp;
 </div>
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/tzvigr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
-<a href="https://fb.com/tzvi greenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
-<a href="https://instagram.com/tzvigreenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tzvigreenfeld" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/greenfeld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tzvi greenfeld" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/gVsn5sm8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gVsn5sm8" height="30" width="40" /></a>
- <a href="mailto:tzvigreenfield@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
-</p>
-
-
