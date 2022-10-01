@@ -6,7 +6,11 @@
   <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
 </div>
 
-
+<div>
+Currently working on:
+<li><a href="https://github.com/TzviGreenfeld/chaser/">chaser</a></li>
+<li><a href="https://github.com/TzviGreenfeld/pdf_indexer">pdf_indexer</a></li>
+</div>
 <br><br>
 <h2 align="center"> Stats </h2>
 <!-- <hr> -->
