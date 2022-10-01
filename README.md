@@ -4,13 +4,16 @@
 <div>
   <h1 align="center">Tzvi Greenfeld</h1>
   <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
+  <p>
+  <h5 align="center">
+    Currently working on:
+    <a href="https://github.com/TzviGreenfeld/chaser/">Chaser</a>, 
+    <a href="https://github.com/TzviGreenfeld/pdf_indexer">Pdf Indexer</a>
+  </h5>
+</p>
 </div>
 
-<div>
-Currently working on:
-<li><a href="https://github.com/TzviGreenfeld/chaser/">chaser</a></li>
-<li><a href="https://github.com/TzviGreenfeld/pdf_indexer">pdf_indexer</a></li>
-</div>
+
 <br><br>
 <h2 align="center"> Stats </h2>
 <!-- <hr> -->
