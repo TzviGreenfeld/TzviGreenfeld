@@ -7,8 +7,8 @@
   <p>
   <h5 align="center">
     Currently working on:
-    <a href="https://github.com/TzviGreenfeld/chaser/">Chaser</a>, 
-    <a href="https://github.com/TzviGreenfeld/pdf_indexer">Pdf Indexer</a>
+    <a href="https://github.com/TzviGreenfeld/chaser/">cut-to-the-chase</a>, 
+    <a href="https://github.com/TzviGreenfeld/pdf_indexer">pdf-indexer</a>
   </h5>
 </p>
 </div>
