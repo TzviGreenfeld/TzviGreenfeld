@@ -1,5 +1,4 @@
 
-<img align="right" width="20%" src="https://github.com/TzviGreenfeld/TzviGreenfeld/blob/main/coomer.png" alt="coomer" />
 <br><br>
 <div>
   <h1 align="center">Tzvi Greenfeld</h1>
