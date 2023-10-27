@@ -4,13 +4,6 @@
 <div>
   <h1 align="center">Tzvi Greenfeld</h1>
   <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
-  <p>
-  <h5 align="center">
-    Currently working on:
-    <a href="https://github.com/TzviGreenfeld/chaser/">cut-to-the-chase</a>, 
-    <a href="https://github.com/TzviGreenfeld/pdf_indexer">pdf-indexer</a>
-  </h5>
-</p>
 </div>
 
 
@@ -21,9 +14,8 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TzviGreenfeld&theme=react&border=61dafb&hide_border=true" alt="TzviGreenfeld" />
     </a>
-    <!--
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=TzviGreenfeld&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+   <!--
+   <a idth="30%" src="https://github-readme-stats.vercel.app/api?username=TzviGreenfeld&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,8 +23,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=TzviGreenfeld&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<hr>
+
 
 <div align=center>
 <h2 align="center"> Reach me out: </h2>
