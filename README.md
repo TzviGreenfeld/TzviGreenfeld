@@ -5,7 +5,7 @@
   <h1 align="center">Tzvi Greenfeld</h1>
   <h4 align="center">Computer Science graduate, Intern at  <a href=https://www.tenable.com>Tenable</a> </h4>
 </div>
-](/)
+
 
 <br><br>
 <h2 align="center"> Stats </h2>
