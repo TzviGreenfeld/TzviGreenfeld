@@ -3,9 +3,9 @@
 <br><br>
 <div>
   <h1 align="center">Tzvi Greenfeld</h1>
-  <h4 align="center">A 3rd year Computer Science Student from Israel</h4>
+  <h4 align="center">Computer Science graduate, Intern at  <a href=https://www.tenable.com>Tenable</a> </h4>
 </div>
-
+](/)
 
 <br><br>
 <h2 align="center"> Stats </h2>
