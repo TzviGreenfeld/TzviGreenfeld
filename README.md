@@ -2,7 +2,7 @@
 <br><br>
 <div>
   <h1 align="center">Tzvi Greenfeld</h1>
-  <h4 align="center">Computer Science graduate, Intern at  <a href=https://www.tenable.com>Tenable</a> </h4>
+  <h4 align="center">Software Engineer at Microsoft </h4>
 </div>
 
 <br />
